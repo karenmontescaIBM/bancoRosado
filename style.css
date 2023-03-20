@@ -1,0 +1,96 @@
+/* General Styling */
+body {
+	font-family: Arial, sans-serif;
+}
+
+.navbar {
+	background-color: #FFE5B4;
+}
+
+.navbar-brand {
+	color: #F5DEB3;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.nav-link {
+	color: #555;
+	font-weight: bold;
+}
+
+.bg-peach {
+	background-color: #FFE5B4;
+}
+
+.bg-eggshell {
+	background-color: #F5DEB3;
+}
+
+.text-peach {
+	color: #FFA07A;
+}
+
+.text-eggshell {
+	color: #F5DEB3;
+}
+
+.btn-outline-peach {
+	color: #FFA07A;
+	border-color: #FFA07A;
+}
+
+.btn-outline-peach:hover {
+	background-color: #FFA07A;
+	color: #FFF;
+}
+
+.btn-outline-eggshell {
+	color: #F5DEB3;
+	border-color: #F5DEB3;
+}
+
+.btn-outline-eggshell:hover {
+	background-color: #F5DEB3;
+	color: #555;
+}
+
+.card {
+	border-color: #F5D
+}
+.box {
+    background-color: #FFF;
+    box-shadow: 0 2px 6px rgba(0,0,0,.16), 0 1px 3px rgba(0,0,0,.08);
+    padding: 24px;
+    }
+    
+    .card-title {
+    color: #555;
+    font-size: 20px;
+    font-weight: bold;
+    }
+    
+    .card-text {
+    color: #777;
+    font-size: 16px;
+    line-height: 24px;
+    }
+    
+    footer {
+    color: #555;
+    font-size: 14px;
+    font-weight: bold;
+    }
+    
+    footer a {
+    color: #555;
+    }
+    
+    footer a:hover {
+    color: #FFA07A;
+    }
+    
+    @media (max-width: 768px) {
+    .navbar-brand {
+    font-size: 18px;
+    }
+    }
